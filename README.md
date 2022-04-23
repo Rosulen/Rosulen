@@ -4,5 +4,6 @@
 - 💞️ I am looking to collaborate in dsp
 - 📫 How to contact me camilaojeda97@gmail.com
 
-The repository ✨ notas_cursos ✨ contains min notes about some courses i have done
-The repository ✨ (proyectos_python) ✨ contains some projects that I have done in python about digital image processing, ✨ it is a very special repository for me✨
+The repository ✨ notas_cursos ✨ contains min notes about some courses i have done.
+
+The repository ✨ (proyectos_python) ✨ contains some projects in python about digital image processing, ✨ it is a very special repository for me ✨
